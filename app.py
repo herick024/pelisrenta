@@ -10,7 +10,7 @@ data.data_readPelis()
 #Codigo creado por herick024
 
 
-db = web.database(dbn='mysql', db='Cine', user='root', pw='momantay')
+db = web.database(dbn='mysql', db='hko7hg2s5g6po4he', user='qwy4jn8jtn5eqhxb', pw='ers2akf9foqgd8p6')
 render = web.template.render('templates/', base = 'base')
 
 urls = (
